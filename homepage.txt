@@ -1,0 +1,4 @@
+Hello Chitkara university
+This is scm class
+We are learning Git today
+
