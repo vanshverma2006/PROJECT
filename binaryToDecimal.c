@@ -15,7 +15,7 @@ int main() {
 
 
     for (int i = 0; i < n; i++) {
-        finalAns += array[n - i - 1] * (int)pow(2, i);  
+        finalAns += array[n - i - 1] * (int)pow(2, i);   
     }
 
     printf("Decimal: %d\n", finalAns);
